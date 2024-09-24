@@ -1,0 +1,15 @@
+C:\Eshwar\C#\C-basics\Basics\bin\Debug\net6.0\Basics.exe
+C:\Eshwar\C#\C-basics\Basics\bin\Debug\net6.0\Basics.deps.json
+C:\Eshwar\C#\C-basics\Basics\bin\Debug\net6.0\Basics.runtimeconfig.json
+C:\Eshwar\C#\C-basics\Basics\bin\Debug\net6.0\Basics.dll
+C:\Eshwar\C#\C-basics\Basics\bin\Debug\net6.0\Basics.pdb
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.csproj.AssemblyReference.cache
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfoInputs.cache
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfo.cs
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.csproj.CoreCompileInputs.cache
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.dll
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\refint\Basics.dll
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.pdb
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
+C:\Eshwar\C#\C-basics\Basics\obj\Debug\net6.0\ref\Basics.dll
